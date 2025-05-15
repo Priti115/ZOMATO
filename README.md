@@ -65,11 +65,4 @@ The goal of this analysis is to understand:
 
 > "Most restaurants are listed under **Dining**, and they also receive the **highest number of customer votes**. A majority of ratings fall between **3.5 to 4.0**, with ₹300 being the most common spending range for two people." 
 
----
 
-## ▶️ How to Run
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/zomato-analysis.git
-   cd zomato-analysis
